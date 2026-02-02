@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   authors: [{ name: 'CV YTCraft Indonesia' }],
   openGraph: {
     type: 'website',
-    url: 'https://ytcraft.id',
+    url: 'https://cv.ytcraft.qzz.io',
     title: 'CV YTCraft Indonesia',
     description: 'Crafting the Future with Technology',
     images: ['/og-image.png'],

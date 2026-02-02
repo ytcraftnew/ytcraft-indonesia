@@ -45,7 +45,7 @@ const portfolioItems = [
     title: 'Smart Agriculture System',
     category: 'IoT Solution',
     description: 'Sistem pertanian pintar dengan sensor IoT dan kontrol otomatis',
-    imageUrl: 'https://images.unsplash.com/photo-1591280443696-8a5f6b3974a5?w=800&h=600&fit=crop',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnk3NAJnWP3gUMPX71GUeASchrGw387VsQcw&s',
     client: 'AgriTech Startup',
     year: '2022',
     duration: '5 months',
